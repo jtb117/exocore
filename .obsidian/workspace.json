@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/Notes on Remilia's New Internet.md",
+                "file": "_articles/Configure Exocore for Personal Use.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/Notes on Remilia's New Internet.md",
+                "file": "_articles/Configure Exocore for Personal Use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_journal/Notes on Remilia's New Internet.md",
+                "file": "_articles/Configure Exocore for Personal Use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_journal/Notes on Remilia's New Internet.md"
+                "file": "_articles/Configure Exocore for Personal Use.md"
               }
             }
           },
@@ -166,14 +166,21 @@
   },
   "active": "3dcc88f476764fe8",
   "lastOpenFiles": [
-    "_scrapbook/Predictive Processing and the Free Energy Principle.md",
+    "_articles/Set up a Custom Domain.md",
+    "_articles/table test.md",
+    "_articles/Writing with Exocore Syntax.md",
+    "_daily/2023-08-15.md",
+    "_daily/2022-05-11.md",
+    "_articles/Using your Exocore.md",
+    "_articles/Exocore Installation Instructions.md",
+    "_articles/Configure Exocore for Personal Use.md",
+    "_articles/The Exocore Package.md",
     "_journal/Notes on Remilia's New Internet.md",
+    "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "_site/assets/imgs/BGs/BGtile-2.png",
     "_site/assets/imgs/BGs/BGtile-1.png",
     "_journal/The Exocore Workflow.md",
     "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
-    "_daily/2023-08-15.md",
-    "_daily/2022-05-11.md",
     "readme.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -184,12 +191,8 @@
     "library/Against Intellectual Property_2.pdf",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
-    "_articles/table test.md",
     "_daily/2022-10-25.md",
-    "_articles/Exocore Installation Instructions.md",
-    "_articles/Writing with Exocore Syntax.md",
     "assets/imgs/bg-yotsuba.gif",
-    "_articles/Configure Exocore for Personal Use.md",
     "_daily/2022-10-23.md"
   ]
 }
