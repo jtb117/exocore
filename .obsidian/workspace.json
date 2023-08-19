@@ -11,8 +11,12 @@
             "id": "3dcc88f476764fe8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_daily/2023-08-19.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_daily/2023-08-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_daily/2023-08-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_daily/2023-08-19.md"
+              }
             }
           },
           {
@@ -158,6 +166,8 @@
   },
   "active": "e509f202f4abd033",
   "lastOpenFiles": [
+    "_daily/Untitled.md",
+    "_daily/2023-08-19.md",
     "new/_wiki/usufruct.md",
     "new/_wiki/L-Dopa.md",
     "new/_wiki",
@@ -202,8 +212,6 @@
     "new/_journal/korean-ginseng-chicken-soup.md",
     "new/_journal/jade-post.md",
     "new/_journal/exocore-workflow.md",
-    "new/_journal/chinese-ginseng-chicken-tonic-soup.md",
-    "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
